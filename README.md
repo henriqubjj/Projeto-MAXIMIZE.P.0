@@ -1,1 +1,1 @@
-# Projeto-MAXIMIZE.P.0
+# Algoritmo branch-and-bound para problemas de programação linear inteira binária.
